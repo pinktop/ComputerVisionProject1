@@ -16,8 +16,9 @@ AI Hub와 농진청에서 제공하는 화상병, 건강한 잎, leafspot 이미
 
 csv 형식의 파일 이름과 예측 라벨이 포함된 파일
 
+![캡처](https://user-images.githubusercontent.com/85859441/137592622-858fa11f-682d-4776-861b-346515f5c931.PNG)
 
-
+라벨은 화상병, 건강한 잎, Leafspot 순으로 각각 0,1,2 입니다 
 
 
 
