@@ -8,6 +8,8 @@
 
 ## 데이터셋
 
+![캡처](https://user-images.githubusercontent.com/85859441/137592829-909c6077-5207-4235-bb15-2c773bcde151.PNG)
+
 AI Hub와 농진청에서 제공하는 화상병, 건강한 잎, leafspot 이미지를 이용했습니다.
 데이터 셋은 vision 폴더에 첨부했습니다
 
