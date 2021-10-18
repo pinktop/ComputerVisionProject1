@@ -33,7 +33,7 @@ https://www.koreascience.or.kr/article/JAKO202010163508707.pdf
 
 코드는 https://codingcrews.github.io/2019/01/19/cat-dog-resnet/ 를 참고했습니다
 
-## 참고하면 좋을 논문
+## 추천 논문
 
 Unsupervised image translation using adversarial networks for improved plant disease recognition, Computers and Electronics in Agriculture
 https://www.sciencedirect.com/science/article/pii/S0168169919315339
