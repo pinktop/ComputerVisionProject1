@@ -6,7 +6,8 @@
 
 
 ![그림1](https://user-images.githubusercontent.com/85859441/137726532-cf405587-6a69-4ce0-a3b2-87fbc88cfa9f.png)
-[1]
+
+병해충 증강 및 학습 흐름도 [1]
 
 
 
