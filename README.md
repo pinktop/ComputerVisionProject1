@@ -40,11 +40,13 @@ csv 형식의 파일 경로 + 파일 이름과 예측 라벨이 포함된 파일
 
 ## 추천 논문
 
+Effective Data Augmentation and Training Techniques for Improving Deep Learning in Plant Leaf Disease Recognition
+https://www.researchgate.net/publication/346607345_Effective_Data_Augmentation_and_Training_Techniques_for_Improving_Deep_Learning_in_Plant_Leaf_Disease_Recognition
+
+
 Unsupervised image translation using adversarial networks for improved plant disease recognition, Computers and Electronics in Agriculture
 https://www.sciencedirect.com/science/article/pii/S0168169919315339
 
-Data Augmentation on Plant Leaf Disease Image Dataset Using Image Manipulation and Deep Learning Techniques
-https://ieeexplore.ieee.org/document/8971580
 
 
 
