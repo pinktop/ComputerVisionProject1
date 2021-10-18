@@ -4,6 +4,9 @@
 
 
 
+![그림1](https://user-images.githubusercontent.com/85859441/137726532-cf405587-6a69-4ce0-a3b2-87fbc88cfa9f.png)
+[1]
+
 
 
 ## 데이터셋
@@ -29,7 +32,7 @@ csv 형식의 파일 경로 + 파일 이름과 예측 라벨이 포함된 파일
 ## 베이스라인
 
 본 챌린지는 '딥러닝 기반 표고버섯 병해충 이미지 분석에 관한 연구'를 베이스라인으로 합니다.
-https://www.koreascience.or.kr/article/JAKO202010163508707.pdf
+[1] https://www.koreascience.or.kr/article/JAKO202010163508707.pdf
 
 코드는 https://codingcrews.github.io/2019/01/19/cat-dog-resnet/ 를 참고했습니다
 
