@@ -9,7 +9,7 @@
 
 병해충 증강 및 학습 흐름도 [1]
 
-
+영상 : https://youtu.be/DA_cXup95GI
 
 ## 데이터셋
 
@@ -29,7 +29,7 @@ csv 형식의 파일 경로 + 파일 이름과 예측 라벨이 포함된 파일
 
 라벨은 화상병, 건강한 잎, Leafspot 순으로 각각 0,1,2 입니다 
 
-평가 지표는 라벨에 대한 정확도
+평가 지표는 라벨에 대한 정확도입니다.
 
 
 ## 베이스라인
@@ -38,6 +38,7 @@ csv 형식의 파일 경로 + 파일 이름과 예측 라벨이 포함된 파일
 [1] https://www.koreascience.or.kr/article/JAKO202010163508707.pdf
 
 코드 베이스라인 : https://codingcrews.github.io/2019/01/19/cat-dog-resnet/ 
+
 
 ## 추천 논문
 
