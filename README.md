@@ -1,6 +1,6 @@
 # ComputerVisionProject1
 
-* 훈련 셋과 테스트 셋의 화상병 양상이 다른 것이 있다는 이야기가 있어서 다시 데이터 셋을 올립니다.
+* 훈련 셋과 테스트 셋의 화상병 양상이 다른 것이 있다는 이야기가 있기에 특정 데이터를 삭제한 데이터 셋을 올립니다.
 밑의 링크에서 다시 다운받으시면 됩니다. 베이스라인을 넘기셨다면 굳이 하시지 않아도 됩니다.
 
 https://drive.google.com/file/d/1wkh-ZQckB-NLfMfZ0FRCapxrbD4DqGsD/view?usp=sharing
